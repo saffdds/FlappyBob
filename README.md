@@ -18,4 +18,4 @@ Un gioco arcade ispirato a Flappy Bird, realizzato con **Pygame**.
 ## ⬇️ Installazione
 
 1. ** Scarica**
-2. [Flappy Bob](https://github.com/saffdds/FlappyBob/releases/download/FrappyBobv1.0.0/bob.exe)
+2. [Flappy Bob](https://github.com/saffdds/FlappyBob/releases/download/FlappyBobv1.0.1/FrappyBob.exe)
